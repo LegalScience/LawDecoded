@@ -3,9 +3,9 @@ Notes and resources related to MAS 664J "Media Lab Entrepreneurship: Digital Inn
 -----
 # Notes:
 
-## From Google Chat, Feb 18:
+## From Google Chat, Feb 18 (slightly corrected!):
 
-me:  Hi Seamis - I'm sitting with Joost now (at a Lab-Wide meeting) and had a chance to ask about the project idea to include a graduate seminar project for you - basically the idea for work on business model and transition to self-sustainment for StateDecoded.   
+me:  Hi Seamus - I'm sitting with Joost now (at a Lab-Wide meeting) and had a chance to ask about the project idea to include a graduate seminar project for you - basically the idea for work on business model and transition to self-sustainment for StateDecoded.   
 Good news: It's a go.
 
 Sent at 1:43 PM on Tuesday
